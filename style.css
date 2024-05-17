@@ -22,6 +22,22 @@
     padding: 0;
 }
 
-.colegio-imagem{
-    width:20%;
+.colegio-imagem {
+    width: 20%;
+}
+
+.escola {
+    background-image: linear-gradient(#68279A, #1187B2);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-conteudo {
+    width: 35%;
+}
+.escola-titulo {
+    padding: 24px 0;
 }
